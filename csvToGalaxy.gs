@@ -1,5 +1,5 @@
 function exportSheetForAllSectionsToJson(){
-  exportSheetAsJSON('TU');
+  exportSheetAsJSON('WKW');
   
   
 }
@@ -10,6 +10,7 @@ function scheduledExportsToJson(){
   exportSheetAsJSON('BOKU');
     exportSheetAsJSON('BFI');
     exportSheetAsJSON('Technikum');
+    exportSheetAsJSON('WKW');
   exportSheetAsJSON(null);
   
 }
